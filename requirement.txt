@@ -1,3 +1,2 @@
-fastapi
-fastapi[standard]
 pytest
+fastapi uvicorn[standard]
